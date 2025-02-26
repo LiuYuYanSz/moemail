@@ -1,5 +1,5 @@
 export const EMAIL_CONFIG = {
-  MAX_ACTIVE_EMAILS: 999, // Maximum number of active emails
+  MAX_ACTIVE_EMAILS: 999999, // Maximum number of active emails
   POLL_INTERVAL: 10_000, // Polling interval in milliseconds
 } as const
 
